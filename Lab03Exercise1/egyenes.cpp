@@ -1,0 +1,3 @@
+#include "egyenes.h"
+
+
