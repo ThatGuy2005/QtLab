@@ -5,7 +5,9 @@ CONFIG -= qt
 
 SOURCES += \
         egyenes.cpp \
-        main.cpp
+        main.cpp \
+        pont.cpp
 
 HEADERS += \
-    egyenes.h
+    egyenes.h \
+    pont.h
